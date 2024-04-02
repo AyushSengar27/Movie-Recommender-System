@@ -1,0 +1,9 @@
+pandas
+numpy
+nltk
+spacy
+seaborn
+scikit-learn
+ipykernel
+nltk
+streamlit
